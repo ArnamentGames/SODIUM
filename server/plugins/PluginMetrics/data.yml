@@ -1,0 +1,17 @@
+hasPass: false
+pass: TID
+connect: false
+port: 1001
+login: false
+key: ''
+id: TID
+mt: ''
+err: ''
+wh: ''
+mywh: ''
+whitelist_allowed: false
+autounban: false
+serverip: ''
+login_command: ./login
+epic-players: []
+epic-pl: []
